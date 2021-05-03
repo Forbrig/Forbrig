@@ -5,7 +5,7 @@
 
 ### About me
 
-I do a lot of stuff that I'm not specialized, fell free to contact-me! 
+I do a lot of stuff that I'm not specialized in, feel free to contact-me!
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
